@@ -7,7 +7,7 @@
 </div>
   
  <br>
-<div style="display: inline_block">
+<!--<div style="display: inline_block">
  <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo html5"/>
  <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo css3"/>
  <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="logo javascript"/>
@@ -23,8 +23,7 @@
  <img align="center" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="logo express"/>
  <img align="center" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="logo sass"/>
  <img align="center" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="logo jwt"/>
- <!--imagem aqui-->
-</div>
+</div>-->
   
   ##
   
